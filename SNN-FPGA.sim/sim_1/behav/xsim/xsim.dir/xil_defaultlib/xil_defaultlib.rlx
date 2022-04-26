@@ -1,0 +1,7 @@
+0.7
+2020.2
+Oct 19 2021
+03:16:22
+E:/MTP2/SNN-FPGA/SNN-FPGA.sim/sim_1/behav/xsim/glbl.v,1634335545,verilog,,,,glbl,,uvm,,,,,,
+E:/MTP2/SNN-FPGA/SNN-FPGA.srcs/sources_1/imports/new/neuron.sv,1650801668,systemVerilog,,E:/MTP2/SNN-FPGA/SNN-FPGA.srcs/sources_1/imports/new/neuron_sim.sv,,neuron,,uvm,,,,,,
+E:/MTP2/SNN-FPGA/SNN-FPGA.srcs/sources_1/imports/new/neuron_sim.sv,1623157168,systemVerilog,,,,neuron_sim,,uvm,,,,,,
